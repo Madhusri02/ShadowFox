@@ -1,0 +1,1 @@
+This is about creating a sales prediction webapplication using streamlit and the python libraries like : numpy , pandas , sklearn
